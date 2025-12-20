@@ -1,7 +1,3 @@
-if not game.GameId == 210851291 then
-    warn("This script is not for this game.")
-end
-
 local executeur = identifyexecutor()	
 
 if not executeur then
