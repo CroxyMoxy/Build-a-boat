@@ -1,1 +1,1 @@
-https://discord.gg/ZZr5JTtuFG
+Silent Ghost Discord Server: https://discord.gg/ZZr5JTtuFG
